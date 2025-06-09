@@ -1,6 +1,6 @@
 # Lagoona — поиск отелей
 
-<img src="https://github.com/matveev-v-m/lagoona/blob/master/lagoona/screenshots/preview.jpg?raw=true" alt="Lagoona Preview" width="600">
+<img src="https://github.com/matveev-v-m/lagoona/blob/master/lagoona/img/logo.svg" alt="Lagoona Preview" width="600">
 
 Статический адаптивный лендинг для поиска и бронирования отелей. Проект реализован с помощью чистого HTML и CSS.
 
